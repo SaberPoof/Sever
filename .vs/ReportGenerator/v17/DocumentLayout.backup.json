@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emil\\Desktop\\ReportsDocument\\ReportGenerator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37C3826B-059D-4709-B2E3-0D401311344F}|ReportGenerator.csproj|c:\\users\\emil\\desktop\\reportsdocument\\reportgenerator\\commands\\loaddatacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C3826B-059D-4709-B2E3-0D401311344F}|ReportGenerator.csproj|solutionrelative:commands\\loaddatacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C3826B-059D-4709-B2E3-0D401311344F}|ReportGenerator.csproj|C:\\Users\\Emil\\Desktop\\ReportsDocument\\ReportGenerator\\services\\exceldataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C3826B-059D-4709-B2E3-0D401311344F}|ReportGenerator.csproj|solutionrelative:services\\exceldataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C3826B-059D-4709-B2E3-0D401311344F}|ReportGenerator.csproj|C:\\Users\\Emil\\Desktop\\ReportsDocument\\ReportGenerator\\services\\collectionupdaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C3826B-059D-4709-B2E3-0D401311344F}|ReportGenerator.csproj|solutionrelative:services\\collectionupdaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C3826B-059D-4709-B2E3-0D401311344F}|ReportGenerator.csproj|C:\\Users\\Emil\\Desktop\\ReportsDocument\\ReportGenerator\\services\\wordgeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C3826B-059D-4709-B2E3-0D401311344F}|ReportGenerator.csproj|solutionrelative:services\\wordgeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C3826B-059D-4709-B2E3-0D401311344F}|ReportGenerator.csproj|C:\\Users\\Emil\\Desktop\\ReportsDocument\\ReportGenerator\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C3826B-059D-4709-B2E3-0D401311344F}|ReportGenerator.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C3826B-059D-4709-B2E3-0D401311344F}|ReportGenerator.csproj|C:\\Users\\Emil\\Desktop\\ReportsDocument\\ReportGenerator\\services\\filedialogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C3826B-059D-4709-B2E3-0D401311344F}|ReportGenerator.csproj|solutionrelative:services\\filedialogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C3826B-059D-4709-B2E3-0D401311344F}|ReportGenerator.csproj|C:\\Users\\Emil\\Desktop\\ReportsDocument\\ReportGenerator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{37C3826B-059D-4709-B2E3-0D401311344F}|ReportGenerator.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C3826B-059D-4709-B2E3-0D401311344F}|ReportGenerator.csproj|C:\\Users\\Emil\\Desktop\\ReportsDocument\\ReportGenerator\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C3826B-059D-4709-B2E3-0D401311344F}|ReportGenerator.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C3826B-059D-4709-B2E3-0D401311344F}|ReportGenerator.csproj|C:\\Users\\Emil\\Desktop\\ReportsDocument\\ReportGenerator\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{37C3826B-059D-4709-B2E3-0D401311344F}|ReportGenerator.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C3826B-059D-4709-B2E3-0D401311344F}|ReportGenerator.csproj|C:\\Users\\Emil\\Desktop\\ReportsDocument\\ReportGenerator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C3826B-059D-4709-B2E3-0D401311344F}|ReportGenerator.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C3826B-059D-4709-B2E3-0D401311344F}|ReportGenerator.csproj|C:\\Users\\Emil\\Desktop\\ReportsDocument\\ReportGenerator\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{37C3826B-059D-4709-B2E3-0D401311344F}|ReportGenerator.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C3826B-059D-4709-B2E3-0D401311344F}|ReportGenerator.csproj|C:\\Users\\Emil\\Desktop\\ReportsDocument\\ReportGenerator\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{37C3826B-059D-4709-B2E3-0D401311344F}|ReportGenerator.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 88,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoadDataCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\ReportsDocument\\ReportGenerator\\Commands\\LoadDataCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\LoadDataCommand.cs",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\ReportsDocument\\ReportGenerator\\Commands\\LoadDataCommand.cs",
+              "RelativeToolTip": "Commands\\LoadDataCommand.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:04:19.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExcelDataService.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\ReportsDocument\\ReportGenerator\\Services\\ExcelDataService.cs",
+              "RelativeDocumentMoniker": "Services\\ExcelDataService.cs",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\ReportsDocument\\ReportGenerator\\Services\\ExcelDataService.cs",
+              "RelativeToolTip": "Services\\ExcelDataService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:04:10.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CollectionUpdaterService.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\ReportsDocument\\ReportGenerator\\Services\\CollectionUpdaterService.cs",
+              "RelativeDocumentMoniker": "Services\\CollectionUpdaterService.cs",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\ReportsDocument\\ReportGenerator\\Services\\CollectionUpdaterService.cs",
+              "RelativeToolTip": "Services\\CollectionUpdaterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:04:09.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WordGeneratorService.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\ReportsDocument\\ReportGenerator\\Services\\WordGeneratorService.cs",
+              "RelativeDocumentMoniker": "Services\\WordGeneratorService.cs",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\ReportsDocument\\ReportGenerator\\Services\\WordGeneratorService.cs",
+              "RelativeToolTip": "Services\\WordGeneratorService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:04:07.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileDialogService.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\ReportsDocument\\ReportGenerator\\Services\\FileDialogService.cs",
+              "RelativeDocumentMoniker": "Services\\FileDialogService.cs",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\ReportsDocument\\ReportGenerator\\Services\\FileDialogService.cs",
+              "RelativeToolTip": "Services\\FileDialogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:03:01.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\ReportsDocument\\ReportGenerator\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\ReportsDocument\\ReportGenerator\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-20T20:16:11.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\ReportsDocument\\ReportGenerator\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\ReportsDocument\\ReportGenerator\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-20T19:58:25.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\ReportsDocument\\ReportGenerator\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\ReportsDocument\\ReportGenerator\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T19:58:24.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\ReportsDocument\\ReportGenerator\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\ReportsDocument\\ReportGenerator\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-20T19:58:24.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\ReportsDocument\\ReportGenerator\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\ReportsDocument\\ReportGenerator\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAywDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T19:58:19.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\ReportsDocument\\ReportGenerator\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\ReportsDocument\\ReportGenerator\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T19:57:52.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Emil\\Desktop\\ReportsDocument\\ReportGenerator\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\Emil\\Desktop\\ReportsDocument\\ReportGenerator\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-20T19:57:51.581Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
